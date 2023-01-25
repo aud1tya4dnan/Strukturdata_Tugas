@@ -1,3 +1,3 @@
-# strukturdata_graph
+# strukturdata
 
 *Struktur Data Graphic*
